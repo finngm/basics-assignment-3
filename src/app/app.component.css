@@ -1,0 +1,12 @@
+button, ol {
+    margin-bottom: 16px;
+}
+
+.clicks {
+    display: inline-block;
+    width: 5%;
+}
+
+.white {
+    color: white;
+}
